@@ -1,6 +1,6 @@
 // Turn-based gaming player, as a service
 //
-//	- Connect to server (table)
-//	- Load table state
+//	- Connect to server (dealer)
+//	- Subscribe to table state
 //	- Load rules
-//	- Wait for turn; Take turn
+//	- On turn, submit play

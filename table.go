@@ -1,6 +1,6 @@
 // Turn-based gaming table, as a service
 //
 //	- Create table state (tablestate)
-//	- Load rules (rules/blackjack)
-//	- Summon dealer (dealer)
-//	- Listen for players
+//	- Listen for dealer to set table state
+//	- Listen for subscribers
+//	- Publish table state
